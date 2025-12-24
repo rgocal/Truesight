@@ -1,7 +1,7 @@
 # 🎮 TrueSight
 
-Summarized as a Steam Charts mobile app, Truesight is an application focused on Steam game analytics and player-count insights.
-It provides clean, visual, and data-driven views of live, historical, and aggregated Steam player data — designed with performance, offline support, and modern UI principles in mind. This application gathers it's data from public and community created api. 
+A Steam Charts inspired app for android, Truesight is focused on Steam game analytics and player-count insights.
+It provides clean, visual, and data-driven views of live, historical, and aggregated Steam player data — designed with performance, offline support, and modern UI principles in mind. This application gathers it's data from public and community driven api. 
 
 
 ### 📊 Player Count Analytics
@@ -49,7 +49,9 @@ It provides clean, visual, and data-driven views of live, historical, and aggreg
 ## 🚀 Project Status
 
 TrueSight is under **active development**.  
-Features, UI, and analytics capabilities are continuously evolving. Recent builds as well as Google Play releases can be found here. There currently is no eta of when the open source code of Truesight will be released but it is planned. Development will continue, even after the source code as contributed uodates will be pushed. Truesight is a free to use app and accepting donations towards development using the donation options inside the app. Funding feuls the application development and a possible release to windows. 
+Features, UI, and analytics capabilities are continuously evolving. Preview builds as well as Google Play releases can be found here. There currently is no eta of when the open source code of Truesight will be released but it is planned. Development will continue, even after the source code as contributed updates will be pushed. Truesight is a free to use app and accepting donations towards development using the donation options inside the app. Funding feuls the application development and a possible release to windows. 
+
+Depending on which build you select to install will determine how ota updates are received by you. If you install truesight from Google play, you will receive updates from Google Play but if you install a preview build, you will receive ota update notifications and be responsible for your managing your own updates. 
 
 
 ## 📄 License
