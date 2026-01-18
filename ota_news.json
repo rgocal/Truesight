@@ -1,8 +1,8 @@
 
 {
   "title": "Taking Open Beta Signups",
-  "message": "The open enrollment for the beta has been enabled on google play. Weekly preview builds are available to manually install from the github repository. These updates are experimental and are a preview of the 2026 update. Enjoy and have fun!",
-  "date": "2026-1-14",
-  "url": "https://github.com/rgocal/Truesight",
+  "message": "The open enrollment for the beta has been enabled on google play. Weekly preview builds are available to manually install from the github repository. There is also a new blog to catch up on! Click to catch up on everything.",
+  "date": "2026-1-18",
+  "url": "https://gocalsdb.wordpress.com/2026/01/18/truesight-development-update-2/",
   "live": true
 }
