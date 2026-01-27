@@ -1,8 +1,8 @@
 
 {
-  "title": "Update 4.07 rolling out",
-  "message": "This update brings routine backups, game label editing, an onboarding activity and a new TOS. Enjoy! ",
-  "date": "2026-1-25",
+  "title": "Bug Tracker",
+  "message": "The latest update caused an issue with aggregation sampling, I am tracking this issue. ",
+  "date": "2026-1-27",
   "url": "",
   "live": true
 }
