@@ -1,5 +1,7 @@
 # 🎮 TrueSight
 
+PUBLIC NOTICE : If you'd like to see this application move toward open source in the future, star the project so I may see the 3rd party audience other than the Google Play user base. Moving to open source would allow other developers to improve the experience futher while I work on more of my other projects in the pipeline. I am also looking for someone who could potentially team up with the Steam Charts team or create a program that could download info from the steam charts website and convert it into a readable database file that Truesight could install. I would also like help to create a version of this app for Windows 11 in the future. If you have any interest in any of these co-labs, contact me. Contact Information can be found in my portfolio. Cheers!
+
 A Steam Charts inspired app for android, Truesight is focused on Steam game analytics and player-count insights.
 It provides clean, visual, and data-driven views of live, historical, and aggregated Steam player data — designed with performance, offline support, and modern UI principles in mind. This application gathers it's data from public and community driven api. 
 
